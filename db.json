@@ -1,0 +1,47 @@
+{
+    "products" : [
+        {
+            "name" : "SmartPhone",
+            "price": 100000 ,
+            "avatar" : "https://i0.wp.com/salefind.in/wp-content/uploads/2022/02/31_1_dd91117d-c66e-4790-b0ed-0c3cb72ab976.jpg?w=600&ssl=1",
+            "id" : 1
+        },
+        {
+            "name" : "Watch",
+            "price" : 4000,
+            "avatar" : "https://m.media-amazon.com/images/I/61gscZYmaoL._SX522_.jpg",
+            "id" : 2
+        },
+        {
+            "name" : "Shirt",
+            "price" : 1200,
+            "avatar" : "https://5.imimg.com/data5/GV/EI/MY-26510312/women-denim-shirt-500x500.jpg" ,
+            "id" : 3
+        },
+        {
+            "name" : "Pants",
+            "avatar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXWeyxpSf5Zv-_ToV9dyBksH42L6RqNgl2PMv0ylrY0O4x3pXk0KWeoQzxlyZ95GsI0A&usqp=CAU",
+            "price" : 1400,
+            "id" : 4
+        },
+        {
+            "name" : "Kurti",
+            "price" : 2000,
+            "avatar" : "https://storage.sg.content-cdn.io/cdn-cgi/image/width=1000,height=1500,quality=75,format=auto/in-resources/6c57599f-2c43-4c82-806a-e07c3410f5d3/Images/ProductImages/Source/chi16899ss21dspnk-1.jpg",
+            "id" : 5
+        },
+        {
+            "name" : "Sneakers",
+            "price" : 6000,
+            "avatar" : "https://images.vans.com/is/image/VansBrand/w21-classics-leaderboard-sk8-hi?wid=300&fmt=png-alpha" ,
+            "id" : 6
+        },
+        {
+            "name" : "Heels",
+            "price" : 3000,
+            "avatar" : "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/21/16/asset/buzzfeed-prod-web-06/sub-buzz-2039-1534885034-1.jpg?downsize=900:*&output-format=auto&output-quality=auto" ,
+            "id" : 7
+        }
+
+    ]
+}
